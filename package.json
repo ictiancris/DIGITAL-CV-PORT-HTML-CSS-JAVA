@@ -2,7 +2,7 @@
   "name": "digital-cv-port-html-css-java",
   "version": "1.0.0",
   "scripts": {
-    "start": "your-start-command-here"
+    "start": "yarn start"
   }
   ...
 }
